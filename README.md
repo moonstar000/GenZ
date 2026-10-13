@@ -1,0 +1,2 @@
+# GenZ
+Sosyal medya Platformu
